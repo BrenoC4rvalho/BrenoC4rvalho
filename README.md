@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👨🏻‍💻 Hello World! 
+---
+Ola sou Breno Carvalho!
 
+Estou em transicao de carreira/
+
+
+##🖥️ Tech Stack:
 <!--
 **BrenoC4rvalho/BrenoC4rvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
