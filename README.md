@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 Hello World! 
 
-Sou um desenvolvedor fullstack em transição de carreira, focado em Java, SpringBoot e Angular. Tenho experiência na criação de APIs seguras, integração com bancos de dados relacionais e não relacionais, além de desenvolvimento de interfaces modernas e responsivas.
-💡 Estou sempre em busca de aprender mais e aprimorar minhas habilidades com projetos práticos e desafios do mundo real.
-🚀 Aqui você encontrará projetos que refletem minha jornada de evolução contínua.
+Sou um desenvolvedor fullstack em transição de carreira, focado em Java, SpringBoot e Angular. Tenho experiência na criação de APIs seguras, integração com bancos de dados relacionais e não relacionais, além de desenvolvimento de interfaces modernas e responsivas. <br>
+💡 Estou sempre em busca de aprender mais e aprimorar minhas habilidades com projetos práticos e desafios do mundo real. <br>
+🚀 Aqui você encontrará projetos que refletem minha jornada de evolução contínua. <br>
 📫 Vamos conversar? Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
 
 ## 💻 Tech Stack:
